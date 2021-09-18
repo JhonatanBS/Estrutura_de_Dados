@@ -1,2 +1,3 @@
-# Estrutura_de_Dados
-Estruturas de dados no 3° e 4° Semestre da Faculdade .
+# Estrutura de Dados
+
+É uma disciplina estudada pelas aréas de tecnologia: Ciências da Computação, Engenharia de Computação, Engenharia de Software, etc. As Principais estruturas são: Listas, Árvores, tabelas Hash e Grafos.
