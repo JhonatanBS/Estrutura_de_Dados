@@ -5,8 +5,8 @@
 <hr>
 
 | Lista  | Descrição|Linguagem|
----------|----------|:---------:|
-|[Lista Encadeada](https://github.com/JhonatanBS/Lista/tree/master/Lista_Encadeada)        | É uma lista implementada de forma dinâmica, gerada sequenciamente que não tem desperdício de memória.|C|
+|---------|----------|:---------:|
+|[Lista Encadeada](https://github.com/JhonatanBS/Lista/tree/master/Lista_Encadeada)| É uma lista implementada de forma dinâmica, gerada sequenciamente que não tem desperdício de memória.|C|
 
 | Árvore  | Descrição|Linguagem|
 ---------|----------|:---------:|
