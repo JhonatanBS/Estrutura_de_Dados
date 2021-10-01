@@ -4,13 +4,21 @@
 É uma disciplina estudada pelas aréas de tecnologia: Ciências da Computação, Engenharia de Computação, Engenharia de Software, etc. As Principais estruturas são: Listas, Árvores, Tabelas Hash e Grafos.
 <hr>
 
-| Lista  | Descrição|Linguagem|
-|---------|----------|:---------:|
-|[Lista Encadeada](https://github.com/JhonatanBS/Lista/tree/master/Lista_Encadeada)| É uma lista implementada de forma dinâmica, gerada sequenciamente que não tem desperdício de memória.|C|
+| Lista  | Descrição|Linguagem|Linguagem|
+|---------|----------|:---------:|:--------:|
+|Dinâmica| É uma lista implementada de forma dinâmica, gerada sequenciamente que não tem desperdício de memória.|[C](https://github.com/JhonatanBS/Lista/tree/master/Lista_Encadeada)|Python|
 
-| Árvore  | Descrição|Linguagem|
----------|----------|:---------:|
-|[Árvore Binária](https://github.com/JhonatanBS/Arvore/tree/master/Arvore-Binaria)        | É uma árvore implementada de forma dinâmica, que apresenta nós com no máximo dois nós filhos.|C|
-|[Árvore AVL](https://github.com/JhonatanBS/Arvore/tree/master/Arvore-AVL)        | É uma árvore implementada de forma dinâmica, que tem as mesmas propriedades da árvore binária e que apresenta um balanceamento.|C|
-|[Árvore Rubro Negra](https://github.com/JhonatanBS/Arvore/tree/master/Arvore-Rubro-negra)        | É uma árvore implementada de forma dinâmica.|C|
-|[Heap Binário](https://github.com/JhonatanBS/Arvore/tree/master/Heap-Binario)        | É um vetor implementado de forma dinâmica, que visualiza uma árvore binária.|C|
+| Fila  | Descrição|Linguagem|Linguagem|
+|---------|----------|:---------:|:--------:|
+|Dinâmica | É uma Fila implementada de forma dinâmica, gerada sequenciamente que não tem desperdício de memória.|[C](https://github.com/JhonatanBS/Pilha/blob/master/PilhaDinamica.c)|Python|
+
+| Pilha  | Descrição|Linguagem|Linguagem|
+|---------|----------|:---------:|:--------:|
+|Dinâmica | É uma Pilha implementada de forma dinâmica, gerada sequenciamente que não tem desperdício de memória.|[C](https://github.com/JhonatanBS/Fila/tree/master/FilaDinamica)|Python|
+
+| Árvore  | Descrição|Linguagem|Linguagem|
+|:---------:|----------|:---------:|:---------:|
+|Binária| É uma árvore implementada de forma dinâmica, que apresenta nós com no máximo dois nós filhos.|[C](https://github.com/JhonatanBS/Arvore/tree/master/Arvore-Binaria) |Python|
+|AVL| É uma árvore implementada de forma dinâmica, que tem as mesmas propriedades da árvore binária e que apresenta um balanceamento.|[C](https://github.com/JhonatanBS/Arvore/tree/master/Arvore-AVL)|Python|
+|Rubro Negra| É uma árvore implementada de forma dinâmica.|[C](https://github.com/JhonatanBS/Arvore/tree/master/Arvore-Rubro-negra)|Python|
+|Heap| É um vetor implementado de forma dinâmica, que visualiza uma árvore binária.|[C](https://github.com/JhonatanBS/Arvore/tree/master/Heap-Binario)|Python|
