@@ -1,7 +1,7 @@
 # Estrutura de Dados
 
 <hr>
-É uma disciplina estudada pelas aréas de tecnologia: Ciências da Computação, Engenharia de Computação, Engenharia de Software, etc. As Principais estruturas são: Listas, Árvores, Tabelas Hash e Grafos.
+É uma disciplina estudada pelas áreas de tecnologia: Ciências da Computação, Engenharia de Computação, Engenharia de Software, etc. As Principais estruturas são: Listas, Árvores, Tabelas Hash e Grafos.
 <hr>
 
 | Lista  | Descrição|Linguagem|Linguagem|
