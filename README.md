@@ -22,3 +22,7 @@
 |AVL| É uma árvore implementada de forma dinâmica, que tem as mesmas propriedades da árvore binária e que apresenta um balanceamento.|[C](https://github.com/JhonatanBS/Arvore/tree/master/Arvore-AVL)|Python|
 |Rubro Negra| É uma árvore implementada de forma dinâmica.|[C](https://github.com/JhonatanBS/Arvore/tree/master/Arvore-Rubro-negra)|Python|
 |Heap| É um vetor implementado de forma dinâmica, que visualiza uma árvore binária.|[C](https://github.com/JhonatanBS/Arvore/tree/master/Heap-Binario)|Python|
+
+|Tabela|Descrição|Linguagem|Linguagem|
+|:---------:|----------|:---------:|:---------:|
+|Hash| É uma tabela que associa chaves à valores, e permite uma busca simples e mais rápida, encontrado o valor desejado.|[C](https://github.com/JhonatanBS/tabelaHash)|Python|
